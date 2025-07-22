@@ -1,2 +1,3 @@
-# kp_sis
-Strategic Intelligence Service to promote "Core Values of Honesty &amp; Care"  Resources
+# KpSIS
+
+Sustainable SIS (Strategic Intelligence Service) to promote [ <b>Core Values of "#Truth &gt;&lt; #Honesty &gt;&lt; #Care &gt;&lt;"</b> ]: qualified teams and required infrastrucures to make the projects self-sustainable.

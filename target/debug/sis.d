@@ -1,0 +1,1 @@
+/home/batien/Kp/GitSrc/github.com/khaiphong/kp_sis/target/debug/sis: /home/batien/Kp/GitSrc/github.com/khaiphong/kp_sis/lib/src/lib.rs /home/batien/Kp/GitSrc/github.com/khaiphong/kp_sis/sis/src/main.rs
